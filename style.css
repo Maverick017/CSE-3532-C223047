@@ -57,6 +57,10 @@ body {
     text-decoration: none;
 }
 
+.hero-btn:hover{
+    background-color: #e0356b;
+}
+
 .hero-img img{
     max-width: 440%;
     padding-right: 220px;
@@ -147,7 +151,7 @@ body {
     justify-content: space-between;
     background-color: #eaf4d4;
     margin: 140px;
-    padding-left: 120px;
+    padding-left: 140px;
     padding-right: 60px;
 }
 
@@ -207,7 +211,7 @@ body {
 }
 
 .sign-btn {
-    width: 120px;
+    width: 110px;
     margin-top: 20px;
     margin-left: 250px;
     padding: 12px 25px;
@@ -217,6 +221,10 @@ body {
     border: none;
     border-radius: 5px;
     text-decoration: none;
+}
+
+.sign-btn:hover{
+    background-color: #e0356b;
 }
 
 .sale-img img{
