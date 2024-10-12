@@ -109,8 +109,8 @@ nav li a {
 }
 
 .about-img {
-    width: 60%;
-    margin-left: 150px;
+    width: 90%;
+    margin-left: 100px;
 }
 
 .about-img img {
@@ -403,7 +403,7 @@ footer {
 
     .about{
         flex-direction: column;
-        margin-left: -40px;
+        margin-left: -18px;
     }
 
     .about-content{
